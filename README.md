@@ -8,7 +8,7 @@ Implements a bouncing ball and allows the user to change the color, wireframe, a
 
 https://user-images.githubusercontent.com/87671757/199091917-b53afe48-a5ce-4f62-9963-c2a5cebfcab9.mp4
 
-### Cannon_Collisions_V1 :
+### Cannon_Collisions :
 JavaScript program that combines three.js for 3D rendering and cannon.js for physical collisions and gravity.
 
 https://user-images.githubusercontent.com/87671757/199375058-0eaae6a8-993f-418b-8ddf-545157d86599.mp4
