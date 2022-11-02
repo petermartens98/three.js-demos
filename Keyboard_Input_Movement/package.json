@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.2.0"
+  },
+  "dependencies": {
+    "dat": "^14.0.3",
+    "dat.gui": "^0.7.9",
+    "three": "^0.146.0"
+  }
+}
