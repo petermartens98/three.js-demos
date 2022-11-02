@@ -16,3 +16,10 @@ https://user-images.githubusercontent.com/87671757/199091917-b53afe48-a5ce-4f62-
 JavaScript program that combines three.js for 3D rendering and cannon.js for physical collisions and gravity.
 
 https://user-images.githubusercontent.com/87671757/199375058-0eaae6a8-993f-418b-8ddf-545157d86599.mp4
+
+### Import Static Models : 
+Method for importing 3d models in three.js in a Vanilla JS app.
+
+This work is based on "Tyrannosarus rex (Free model)" (https://sketchfab.com/3d-models/tyrannosarus-rex-free-model-e18c433cdd1c49f8ac152348b7384037) by Joel Anderson (https://sketchfab.com/joel3d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+
+![image](https://user-images.githubusercontent.com/87671757/199351956-660fb70d-83f8-4ee7-a60d-ceb50b00f9be.png)
