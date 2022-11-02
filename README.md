@@ -28,3 +28,14 @@ This work is based on "Tyrannosarus rex (Free model)" (https://sketchfab.com/3d-
 Uses three.js to implement a 3D sphere and allows the user to control movement with keyboard input.
 
 https://user-images.githubusercontent.com/87671757/199256675-1a223063-30a8-4847-9001-1c17281c1b6b.mp4
+
+### Geometric_Figures :
+Collection of geometric figures implemented in three.js
+
+##### Rotating Cube :
+https://user-images.githubusercontent.com/87671757/198360133-2f6cff90-aeee-4ab2-a30d-d5a98f7842cc.mp4
+
+#### Rotating Sphere :
+https://user-images.githubusercontent.com/87671757/198730538-1fa149eb-00a4-4eec-903b-cfef706b8d1c.mp4
+
+
