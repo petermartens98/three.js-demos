@@ -29,6 +29,9 @@ Uses three.js to implement a 3D sphere and allows the user to control movement w
 
 https://user-images.githubusercontent.com/87671757/199256675-1a223063-30a8-4847-9001-1c17281c1b6b.mp4
 
+### Solar System Replica :
+https://user-images.githubusercontent.com/87671757/198369971-8c4b1319-c123-4e1a-b90b-15da785e89b7.mp4
+
 ### Geometric_Figures :
 Collection of geometric figures implemented in three.js
 
